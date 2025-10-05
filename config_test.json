@@ -1,0 +1,17 @@
+{
+  "valid_sites": ["MLA", "MLM", "MLC", "MCO"],
+  "configs_by_site": {
+    "MLA": {
+      "message": "Estas en Argentina"
+    },
+    "MLC": {
+      "message": "Estas en Chile"
+    },
+    "MLM": {
+      "message": "Estas en Mexico"
+    }, 
+    "MCO": {
+      "message": "Estas en Colombia"
+    }
+  }
+}
