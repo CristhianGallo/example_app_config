@@ -12,6 +12,9 @@
     }, 
     "MCO": {
       "message": "Estas en Colombia"
+    },
+    "MLB": {
+      "message": "Você está no Brasil"
     }
   }
 }
