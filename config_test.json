@@ -1,7 +1,7 @@
 {
   "valid_sites": ["MLA", "MLM", "MLC", "MCO", "MLB"],
   "configs_by_site": {
-    "MLA": {
+    "MLAAAA": {
       "message": "Estas en Argentina"
     },
     "MLC": {
